@@ -3,7 +3,7 @@
 pragma solidity ^0.8.17;
 
 
-contract ImasterDonate {
+contract ImasterDonation {
 
     address public owner;
     mapping (address => uint) public payments;
